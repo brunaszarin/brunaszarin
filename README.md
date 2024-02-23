@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://i.giphy.com/QNAJFUmMnbYXK.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/gva56gAnEVIAAAAj/braydenchokie.gif"/>
 
 ###
 
