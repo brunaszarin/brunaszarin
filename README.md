@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/gva56gAnEVIAAAAj/braydenchokie.gif"/>
+<img align="right" height="150" src="https://i.pinimg.com/originals/23/7f/c9/237fc91abb4989ad10f41590e15c2e3b.jpg"/>
 
 ###
 
