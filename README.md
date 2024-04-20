@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=7F3ACE &center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Hello;I'm+Bruna%2C+a+tech+goblin+and+a+web+designer." width="70%" />
 
 ###
 
