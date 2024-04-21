@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=fad2da&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Hello;I'm+Bruna%2C+a+tech+goblin+and+a+web+designer." width="70%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=21&pause=1000&color=FAD2DA&multiline=true&random=false&width=437&height=60&lines=Hello+World+%F0%9F%96%90+;I'm+Bruna%2C+a+29yo+FullStack+Developer.)](https://git.io/typing-svg)
 
 ###
 
