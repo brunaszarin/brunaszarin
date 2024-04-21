@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=21&pause=1000&color=FAD2DA&multiline=true&random=false&width=437&height=60&lines=Hello+World+%F0%9F%96%90+;I'm+Bruna%2C+a+29yo+FullStack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=EB4AAB&center=true&vCenter=true&multiline=true&random=false&width=1903&height=135&lines=Hello+World!;I'm+Bruna+Szarin%2C+a+fullstack+developer.)](https://git.io/typing-svg)
 
 ###
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Descrição da imagem">
+</p>
