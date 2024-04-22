@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=EB4AAB&center=true&vCenter=true&multiline=true&random=false&width=1903&height=135&lines=Hello+World!;I'm+Bruna+Szarin%2C+a+fullstack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=EB4AAB&center=true&vCenter=true&multiline=true&random=false&width=1903&height=135&lines=Hello+World!;I'm+Bruna+Szarin%2C+a+Fullstack+Developer.)](https://git.io/typing-svg)
 
 ###
 
