@@ -2,6 +2,9 @@
 
 ##
 
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/angular/EB4AAB" /> ‎  ‎ <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/EB4AAB" />‎  ‎ <img height="32" width="32" src="https://cdn.simpleicons.org/html5/EB4AAB" />‎
+
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Descrição da imagem">
