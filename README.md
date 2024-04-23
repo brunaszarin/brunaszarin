@@ -3,7 +3,6 @@
 ##
 
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/angular/EB4AAB" /> ‎  ‎ <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/EB4AAB" />‎  ‎ <img height="32" width="32" src="https://cdn.simpleicons.org/html5/EB4AAB" />‎
 
 <br>
 <p align="center">
