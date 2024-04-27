@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=1900&pause=50&color=EB4AAB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1903&height=135&lines=Hello+World!;I'm+Bruna+Szarin%2C+a+Fullstack+Developer.)](https://git.io/typing-svg)
-
 ##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=A059EB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1903&height=100&lines=My+Skills)](https://git.io/typing-svg)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,nodejs,figma,gcp,azure,react,vue&theme=dark" />
+  </a>
+</p>
 
 <br>
 <p align="center">
