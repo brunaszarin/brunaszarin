@@ -49,11 +49,6 @@
 
 
 
-## #30NitesOfCode  
 
-[Check out my progress!](https://www.codedex.io/@brunaszarin/30-nites-of-code)
-
-
-<img src="https://www.codedex.io/api/petStatus?user=brunaszarin" alt="@brunaszarin #30NitesOfCode">
 
 </div>
