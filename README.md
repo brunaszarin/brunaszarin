@@ -12,14 +12,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=A059EB&center=true&vCenter=true&repeat=false&random=false&width=1903&height=135&lines=Coding+Skills)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,java,ruby,c,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs&theme=dark" />
   </a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=A059EB&center=true&vCenter=true&repeat=false&random=false&width=1903&height=135&lines=Frameworks)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,vue,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,react&theme=dark" />
   </a>
 </p>
 
