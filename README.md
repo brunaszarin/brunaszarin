@@ -51,3 +51,5 @@
   <img src="https://img.shields.io/badge/Remix-0D1117?style=flat-square&logo=remix&logoColor=ABFF40"/>
 
 </p>
+
+![banner](https://github.com/brunaszarin/brunaszarin/blob/main/sodointro.gif)
