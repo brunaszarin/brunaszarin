@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Camada_2" data-name="Camada 2" viewBox="0 0 424.01 402.7" width="424.010009765625" height="402.70001220703125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #88d115;
+      }
+
+      .cls-2 {
+        fill: #abff3f;
+      }
+
+      .cls-3 {
+        filter: url(#outer-glow-1);
+      }
+    </style>
+    <filter id="outer-glow-1" x="-92.54" y="-92.62" width="610" height="588" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="30.76"/>
+      <feFlood flood-color="#87ea47" flood-opacity=".4"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <g class="cls-3">
+        <g>
+          <path class="cls-2" d="M408.9,44.28V14.8h-29.73V0h-44.28v44.28h29.9v14.7h14.7s0,65.75,0,65.75h-15.36v38.66h-29.07s0,29.32,0,29.32h-119.2v-58.89h-28.49v-44.68h-15.8v-30.23h-29.69v30.23s-12.26,0-12.26,0v14.62h-32.3v-15.85h-14.84v-29h-29.7v30.29h-14.86v44.79H14.16v104.08h23.77v10.15h14.86v64.44h14.84v58.47h14.86v20.32h29.7v-35.19h29.7v35.19h29.38v-19.57h16.11v-21.3h72.53v21.13h15.63v.15h-.04v30.01h30.01v-30.01h-.17v-.15h.17v-21.13h14.58v21.13h20.94v30.16s23.8,0,23.8,0v-34.95h-.01v-84.41h-29.88v-45.1h15.01v-14.7h29.54v-29.74h14.84v-14.52h14.88v-30.16h14.81V44.28h-15.11ZM94.69,192.87h-1.47v-.34h1.47v.34ZM364.47,192.95h-.66v-.25h.66v.25Z"/>
+          <rect x="53.61" y="153.68" width="14.16" height="19.9"/>
+          <rect x="143.09" y="153.68" width="14.16" height="19.9"/>
+          <rect x="96.83" y="141.25" width="14.16" height="14.16"/>
+          <rect x="110.99" y="155.41" width="14.16" height="14.16"/>
+          <rect x="82.3" y="155.41" width="14.16" height="14.16"/>
+        </g>
+        <rect class="cls-1" x="0" y="134.17" width="14.16" height="14.16"/>
+        <rect class="cls-1" x="187.31" y="132.33" width="40.8" height="14.16"/>
+        <rect class="cls-1" x="187.31" y="159.42" width="40.8" height="14.16"/>
+        <rect class="cls-1" y="164.62" width="14.16" height="14.16"/>
+        <rect class="cls-1" x="259.9" y="350.56" width="45.59" height="21.14"/>
+        <rect class="cls-1" x="275.49" y="370.63" width="30.01" height="31.23"/>
+      </g>
+      <rect class="cls-2" x="142.01" y="382.24" width="29.26" height="20.46" transform="translate(313.27 784.94) rotate(-180)"/>
+      <rect class="cls-2" x="82.63" y="382.24" width="29.61" height="20.46" transform="translate(194.86 784.94) rotate(-180)"/>
+    </g>
+  </g>
+</svg>
