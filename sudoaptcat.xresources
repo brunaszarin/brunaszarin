@@ -1,0 +1,22 @@
+*.background:    #0D1117
+*.foreground:    #ABFF40
+*.cursorColor:   #ABFF40
+*.colorBD:       #ABFF40
+
+! Two-color palette: everything green except the background
+*.color0:  #0D1117
+*.color1:  #ABFF40
+*.color2:  #ABFF40
+*.color3:  #ABFF40
+*.color4:  #ABFF40
+*.color5:  #ABFF40
+*.color6:  #ABFF40
+*.color7:  #ABFF40
+*.color8:  #ABFF40
+*.color9:  #ABFF40
+*.color10: #ABFF40
+*.color11: #ABFF40
+*.color12: #ABFF40
+*.color13: #ABFF40
+*.color14: #ABFF40
+*.color15: #ABFF40
