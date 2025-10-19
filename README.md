@@ -33,7 +33,6 @@
   
 
   <!-- Cloud & Infrastructure -->
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=ABFF40"/>
   <img src="https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=ABFF40"/>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=ABFF40"/>
   <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=ABFF40"/>
