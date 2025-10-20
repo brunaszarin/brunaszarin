@@ -1,2 +1,0 @@
-{"version": 2, "width": 80, "height": 24, "timestamp": 1760904964, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
-[0.003169, "o", "sh: 1: ./intro.sh: Permission denied\r\n"]
