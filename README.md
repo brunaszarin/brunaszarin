@@ -52,4 +52,4 @@
 
 </p>
 
-![banner](https://github.com/brunaszarin/brunaszarin/blob/main/sodointro.gif)
+![banner](https://github.com/brunaszarin/brunaszarin/blob/main/bio.gif)
