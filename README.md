@@ -1,4 +1,4 @@
-![banner](https://github.com/brunaszarin/brunaszarin/blob/main/title.png)
+![banner](https://github.com/brunaszarin/brunaszarin/blob/main/title.svg)
 
  
 
